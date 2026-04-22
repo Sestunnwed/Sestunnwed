@@ -27,12 +27,9 @@ jobs:
         with:
           version: 0.15.2
 
-      - name: Clone github-stats repo
+      - name: Clone and build github-stats
         run: |
           git clone --depth=1 --branch master https://github.com/jstrieb/github-stats.git
-
-      - name: Build github-stats
-        run: |
           cd github-stats
           zig build --release
           cp zig-out/bin/github-stats ../github-stats-bin
