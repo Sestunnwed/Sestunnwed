@@ -21,10 +21,6 @@ jobs:
     steps:
     - uses: actions/checkout@v6
 
-    - uses: mlugg/setup-zig@d1434d08867e3ee9daa34448df10607b98908d29  # v2 tag
-      with:
-        version: 0.15.2
-
     - name: Downloads latest github-stats
       run: |
         mkdir -p zig-out/bin
