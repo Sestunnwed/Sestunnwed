@@ -14,8 +14,10 @@
   <img src="https://skillicons.dev/icons?i=anaconda,arduino,bash,bootstrap,c,css,django,docker,electron,express,fastapi,flask,git,gtk,html,java,js,jquery,linux,mysql,nginx,nodejs,opencv,postgres,py,pytorch,qt,react,redis,ruby,selenium,sqlite,tailwind,tensorflow,ts,vue&perline=8" alt="skills" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sestunnwed&show_icons=true&locale=en&layout=compact" alt="Sestunnwed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sestunnwed&show_icons=true&locale=en" alt="Sestunnwed" /></p>
-
-gg
+<p align="center">
+  <img src="https://github.com/Sestunnwed/Sestunnwed/blob/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://github.com/Sestunnwed/Sestunnwed/blob/generated/languages.svg#gh-dark-mode-only" />
+  <img src="https://github.com/Sestunnwed/Sestunnwed/blob/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+  <img src="https://github.com/Sestunnwed/Sestunnwed/blob/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+</p>
