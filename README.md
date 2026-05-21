@@ -16,8 +16,6 @@
 
 
 <p align="center">
-  <img src="https://github.com/Sestunnwed/Sestunnwed/blob/generated/overview.svg#gh-dark-mode-only" />
-  <img src="https://github.com/Sestunnwed/Sestunnwed/blob/generated/languages.svg#gh-dark-mode-only" />
-  <img src="https://github.com/Sestunnwed/Sestunnwed/blob/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
-  <img src="https://github.com/Sestunnwed/Sestunnwed/blob/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+  <img src="https://github.com/Sestunnwed/github-stats/blob/output/generated/overview.svg" alt="">
+  <img src="https://github.com/Sestunnwed/github-stats/blob/output/generated/languages.svg" alt="">
 </p>
